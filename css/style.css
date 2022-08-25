@@ -1,0 +1,10 @@
+/*base classes*/
+.font{
+	font-family: 'Poppins';
+}
+.f-left{
+	float: left;
+}
+.f-right{
+	float: right;
+}
