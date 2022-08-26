@@ -2,9 +2,75 @@
 .font{
 	font-family: 'Poppins';
 }
+.font1{
+	font-family: 'Playfair Display';
+	font-size: 55px;
+	color: #FF7A00;
+}
 .f-left{
 	float: left;
 }
 .f-right{
 	float: right;
+}
+.clear{
+	clear: both;
+}
+.conteiner{
+	width: 1324px      ;
+	margin: o auto;
+}
+/*header*/
+.logo{
+	font-size: 24px;
+	color: #FF7A00;
+}
+.header-logo{
+	margin-left: 140px;
+	margin-bottom: 23px;
+}
+.li{
+	font-size: 16px;
+	color: #181C28;
+	display: inline-block;
+	margin-right: 30px;
+}
+.li2{
+	font-weight: bold;
+}
+.header-nav{
+	margin-top: 45px;
+	margin-left: 119px;
+	padding-right: 23px;
+}
+.header{
+	width: 1600px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 2;
+	background-color: #FFFFFF;
+}
+/*section 1*/
+.section1{
+	margin-top: 102px;
+}
+.blog-h1{
+	font-size: 48px;
+	color: #FFFFFF;
+	margin-top: 10px;
+	margin-left: 40px;
+}
+.blog-p{
+	font-size: 22px;
+	color: #FFFFFF;
+}
+.baner{
+	position: relative;
+}
+.blog-title{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
 }
