@@ -17,8 +17,8 @@
 	clear: both;
 }
 .conteiner{
-	width: 1322px      ;
-	margin: o auto;
+	width: 1324px      ;
+	margin: auto;
 }
 /*header*/
 .logo{
@@ -108,7 +108,7 @@
 	background-color: #FF7A00;
 	display: inline-block;
 	margin-left: 18px;
-	margin-bottom: 57px;
+	
 }
 
 .left2-h{
@@ -125,4 +125,128 @@
 	width: 636px;
 	line-height: 0.75cm;
 	margin-bottom: 13px;
+}
+/*section #2-box 2*/
+.image-box2{
+	width: 636px;
+	height: 423px;
+	margin-bottom: 20px;
+}
+.h2-box2{
+	font-size: 36px;
+	color: #181C28;
+	width: 563px;
+	font-weight: bold;
+	margin-bottom: 22px;
+}
+.p-box2{
+	font-size: 16px;
+	color: #7B7B7B;
+	width: 636px;
+	line-height: 0.75cm;
+	margin-bottom: 13px;
+}
+.wrapper-box2{
+	margin-top: 57px;
+}
+.readmore-box2{
+	font-size: 14px;
+	color: #FF7A00;
+}
+.readmore-box2::after{
+	content: " ";
+	width: 47px;
+	height: 4px;
+	background-color: #FF7A00;
+	display: inline-block;
+	margin-left: 18px;
+}
+
+.image-box2-2{
+	width: 636px;
+	height: 423px;
+	margin-bottom: 20px;
+}
+.h2-box2-2 {
+	font-size: 36px;
+	color: #181C28;
+	width: 563px;
+	margin-bottom: 22px;
+	font-weight: bold;
+}
+.p-box2-2{
+	font-size: 16px;
+	color:#7B7B7B;
+	width: 636px;
+	line-height:0.75cm;
+	margin-bottom: 13px;
+}
+.readmore-box2-2{
+	font-size: 14px;
+	color: #FF7A00;
+}
+.readmore-box2-2::after{
+	content: " ";
+	width: 47px;
+	height: 4px;
+	background-color: #FF7A00;
+	display: inline-block;
+	margin-left: 18px;
+}
+
+/*load more*/
+.loadmore-box{
+	width: 190px;
+	height: 70px;
+	background-color: #FF7A00;
+	position: relative;
+	left: 705px;
+	top: 66px;
+}
+.load-more{
+	font-size: 16px;
+	color: #FFFFFF;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.section3{
+	margin-bottom: 134px;
+}
+/*section 4*/
+.black{
+	width: 1600px;
+	height: 266px;
+	background-color: #181C28;
+	margin-bottom: 82px;
+}
+/*footer*/
+.footer-h{
+	font-size: 24px;
+	color: #282828;
+	margin-bottom: 15px;
+}
+.f-l{
+	font-size: 16px;
+	color: #7B7B7B;
+	margin-bottom: 15px;
+}
+
+.ul-box2{
+	margin-left: 234px;
+	margin-right: 234px;
+}
+.visa{
+	margin-left: 40px;
+}
+.Copyright{
+	font-size: 16px;
+	color: #A4A4A4;
+}
+.copyright1{
+	float: right;
+}
+.footer{
+	margin-bottom: 137px;
 }
